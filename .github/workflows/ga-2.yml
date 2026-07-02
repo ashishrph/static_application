@@ -8,6 +8,6 @@ jobs:
         runs-on: ubuntu latest
         steps:
             - name: list the files
-              run: ls -lrt
+              run: ls -lart
 
 
