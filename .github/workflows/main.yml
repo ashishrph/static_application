@@ -5,7 +5,12 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - run: echo "hello world"
+<<<<<<< HEAD
   say-hello2:
     runs-on: ubuntu-latest
     steps:
       - run: echo "hi world"
+=======
+  
+ 
+>>>>>>> 144ea462f9ff2f0ec389de9cb36a8c1415ac2890
